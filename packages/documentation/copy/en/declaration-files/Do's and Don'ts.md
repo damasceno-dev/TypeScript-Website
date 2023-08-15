@@ -24,7 +24,7 @@ function reverse(s: String): String;
 function reverse(s: string): string;
 ```
 
-Instead of `Object`, use the non-primitive `object` type ([added in TypeScript 2.2](../release-notes/typescript-2-2.html#object-type)).
+Instead of `Object`, use the primitive `object` type ([added in TypeScript 2.2](../release-notes/typescript-2-2.html#object-type)).
 
 ### Generics
 
